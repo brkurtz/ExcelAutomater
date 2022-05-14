@@ -90,7 +90,7 @@ class Excelgui:
        outfile = self.entry_outfile.get()
        parse_sheet(infile)
        out(outfile)
-       self.label_start.config(text='Done Compiling Date please check folder with program for sheet.')
+       self.label_start.config(text='Done Compiling data please check folder with program for sheet.')
 
 
 
