@@ -1,4 +1,9 @@
 from EXCELgui import *
+'''
+Idea from chapter 13 from Automate the boring stuff https://automatetheboringstuff.com/2e/chapter13/ used it to build
+framework and base file to start then added a gui and made it print results to a new excel sheet instead of printing it 
+to a pyfile to use as quick access for the file.
+'''
 
 def main():
 
